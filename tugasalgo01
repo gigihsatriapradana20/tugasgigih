@@ -1,0 +1,16 @@
+#include <iostream>
+#include <stdlib.h>
+using namespace std;
+
+int main()
+
+{
+  float jumlah, harga, total  ;
+  cout<<"Masukkan jumlah barang    = ";
+  cin>>jumlah;
+  cout<<"Harga{ barang              = Rp. ";
+  cin>>harga;
+  cout<<"total yang harus di bayar = Rp.13500";
+  cin>>total;
+
+  }
